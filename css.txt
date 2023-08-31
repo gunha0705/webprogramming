@@ -1,0 +1,8 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+body {background-color : rgb(102,051,000);}
+header {color : powderblue;font-family:gulim;font-style}
+section {background-color : rgb(255,255,153);font-family:dotum;}
+h1 {font-family:'Dongle',sans-serif;font-size:70px;color:black;}
+h2 {font-family:'Dongle',sans-serif;font-size:50px;}
+h3 {font-family:'Dongle',sans-serif;font-size:40px;}
